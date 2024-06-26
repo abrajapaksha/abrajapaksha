@@ -81,9 +81,11 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
 </p>
-<hr>
 
-<h3 align="left">Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrajapaksha&show_icons=true&locale=en&layout=compact" alt="abrajapaksha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrajapaksha&show_icons=true&locale=en" alt="abrajapaksha" /></p>
+## Github Stats:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abrajapaksha&show_icons=true&locale=en&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrajapaksha&show_icons=true&locale=en)
+
