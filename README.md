@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Avishka</h1>
 <h3 align="center">Electrical Engineering Undergraduate</h3>
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="GIF Image" />
+</p>
 
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=abrajapaksha&label=Profile%20views&color=0e75b6&style=flat" alt="abrajapaksha" /> 
@@ -7,6 +10,7 @@
 <hr>
 
 - 📫 How to reach me **avishkarajapaksha763@gmail.com**
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
